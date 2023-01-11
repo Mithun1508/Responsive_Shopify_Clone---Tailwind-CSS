@@ -1,4 +1,4 @@
-# Shopify- e-commerce-Website-clone
+# Responsive_Shopify_Clone - Tailwind CSS
 
 
 
