@@ -1,6 +1,6 @@
 # Responsive_Shopify_Clone - Tailwind CSS
 
-https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E
+
 
 # Site is live : https://lustrous-monstera-17eb5d.netlify.app/
 
