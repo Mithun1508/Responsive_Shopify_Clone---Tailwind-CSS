@@ -1,6 +1,7 @@
 # Responsive_Shopify_Clone - Tailwind CSS
 
-
+# TECH STACK USED:
+[![Skills](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://www.apple.com/macos/catalina-preview)
 
 # Site is live : https://lustrous-monstera-17eb5d.netlify.app/
 
